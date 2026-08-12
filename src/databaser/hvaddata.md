@@ -1,0 +1,1 @@
+# Data er allevegne
