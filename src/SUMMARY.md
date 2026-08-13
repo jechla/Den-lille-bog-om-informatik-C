@@ -3,7 +3,9 @@
 [Introduktion]()
 
 # Robotterne kommer
-- [Prototyper og designprincipper]()
+- [Robotterne kommer]()
+
+- [Prototyper og designprincipper](./robotter/introprototyper.md)
     - [Prototyper](./robotter/prototyper.md)
         - [Brugertest](./robotter/brugertest.md)
         - [Storyboard](./robotter/storyboard.md)
@@ -15,7 +17,7 @@
         - [Mapping](./robotter/mapping.md)
         - [Affordance](./robotter/affordance.md)    
 
-- [Programmering af fysiske prototyper]()
+- [Programmering af fysiske prototyper](./robotter/introprogramprototype.md)
     - [Programmer og computere](./robotter/pc.md)
         - [Tilstandsdiagrammer](robotter/tilstand.md)
         - [Rutediagrammer](./robotter/rute.md) 
@@ -33,13 +35,35 @@
     - [Udvidelse til makecode]()
     - [Motorer]()
     - [Fjernstyring]()
+
+- [Design af robotspil]()
+    - [Robotspilhjulet]()
+    - [Robotspilhjulet og designprincipper]()
+    - [Brugertest]()
 --------
 
 # There is an app for that
-- [Todo]()
+- [There is an app for that]()
+- [interaktionsdesign]()
+    - [Fra idé til app: Double diamond]()
+        - [Discover]()
+        - [Define]()
+        - [Develop]()
+        - [Deliver]()
+        - [Em iterativ proces]()
+    - [Hvem? Persona]()
+    - [Hvad? Scenarier]()
+    - [Udseende: Gestaltlove]()
+- [App-programmering]()
+    - [De tre lag]()
+    - [Design]()
+    - [Kode]()
+        - [Variable: Erklæring, initialisering, anvendelse]()
+        - [Lister]()
 --------
 
 # Databaser og it-sikkerhed
+- [Databaser og it-sikkerhed]()
 - [Data er allevegne](./databaser/hvaddata.md)
 - [Hvad er en database](./databaser/hvaddb.md)
     - [Tabeller](./databaser/tabeller.md)
@@ -56,6 +80,7 @@
     - [Sikker transport af data](./databaser/transport.md)
     - [Passwords og hashing](./databaser/passwdhash.md)
 --------
+
 # Tænkende computere
 - [Todo]()
 

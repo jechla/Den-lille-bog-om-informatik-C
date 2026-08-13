@@ -47,3 +47,6 @@ Før variable kan anvendes skal de have en værdi. Et eksempel hvor en variabel 
 ![](./assets/makecode/lysniveauivariabel.png)
 
 Variable kan fx anvendes i forgreninger.
+
+## Eventhandler
+Se [evenhandler](./knapperevent.md#eventhandler)

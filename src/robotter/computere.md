@@ -35,4 +35,4 @@ Ligesom med hukommelsen, skal CPU'en *først* spørge en sensor om værdier, fø
 
 Det forklarer, hvorfor de blokke, der har med sensorers værdier at gøre, ofte optræder som variable. Det betyder også, at den normale arbejdsgang i et program er at aflæse en værdi fra en sensor, og placere den i en variabel. Derefter kan variablen, så undersøges med fx forgreninger.
 
-Den sidste pil på diagrammet går fra diagrammet til CPU'en. Det vil sige, det omvendte af de to andre pile det kræver en forklaring, som bliver givet i næste afsnit.
+Den sidste pil på diagrammet går fra knapper til CPU'en. Det vil sige, det omvendte af de to andre pile det kræver en forklaring, som bliver givet i næste afsnit.
