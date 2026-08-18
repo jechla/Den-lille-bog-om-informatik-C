@@ -1,9 +1,9 @@
 # Summary
 
-[Introduktion]()
+[Introduktion](./introduktion.md)
 
 # Robotterne kommer
-- [Robotterne kommer]()
+- [Robotterne kommer](./robotter/introrobot.md)
 
 - [Prototyper og designprincipper](./robotter/introprototyper.md)
     - [Prototyper](./robotter/prototyper.md)
@@ -30,11 +30,11 @@
         - [Funktioner](./robotter/funktioner.md)
     - [Fagbegreber](./robotter/fagbegreber.md)
 
-- [Programmering af robotter]()
+- [Programmering af robotter](./robotter/progrobo.md)
     - [Hvad er en robot?]()
-    - [Udvidelse til makecode]()
-    - [Motorer]()
-    - [Fjernstyring]()
+    - [Udvidelse til makecode](./robotter/udvidelse.md)
+    - [Motorer](./robotter/motor.md)
+    - [Fjernstyring](./robotter/fjernstyring.md)
 
 - [Design af robotspil]()
     - [Robotspilhjulet]()
@@ -59,7 +59,7 @@
     - [Design]()
     - [Kode]()
         - [Variable: Erklæring, initialisering, anvendelse]()
-        - [Lister]()
+        - [Lister og løkker]()
 --------
 
 # Databaser og it-sikkerhed
