@@ -36,15 +36,16 @@
     - [Motorer](./robotter/motor.md)
     - [Fjernstyring](./robotter/fjernstyring.md)
 
-- [Design af robotspil]()
-    - [Robotspilhjulet]()
-    - [Robotspilhjulet og designprincipper]()
-    - [Brugertest]()
+- [Design af robotspil](./robotter/introdesignrobo.md)
+    - [Robotspilhjulet](./robotter/robospilhjul.md)
+    - [Robotspilhjulet og designprincipper](./robotter/robospildesign.md)
+    
 --------
 
 # There is an app for that
 - [There is an app for that]()
-- [interaktionsdesign]()
+    - [Hvordan påvirker app's os?]()
+- [Interaktionsdesign]()
     - [Fra idé til app: Double diamond]()
         - [Discover]()
         - [Define]()
@@ -60,6 +61,7 @@
     - [Kode]()
         - [Variable: Erklæring, initialisering, anvendelse]()
         - [Lister og løkker]()
+        - [Algoritmer]()
 --------
 
 # Databaser og it-sikkerhed
